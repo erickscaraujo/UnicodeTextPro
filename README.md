@@ -11,7 +11,7 @@
 
 Funciona no **Facebook, WhatsApp, X (Twitter), LinkedIn, Instagram, Discord** e qualquer lugar que aceite Unicode. Roda **100% offline**, sem conta e sem internet.
 
-</div>
+![screen](tela.png)
 
 ---
 
